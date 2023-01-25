@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"How to use RandomGgames' ","color":"gold","italic":"true"},{"text":"Spawner Mover","color":"green","italic":"true"},{"text":":\n","color":"gold"},{"text":"While holding a silk touch iron or diamond pickaxe, stand next to/above/below a spawner and look at it. The spawner will move in that direction if there is an air block behind it.","color":"gray"}]
